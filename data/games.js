@@ -19,13 +19,13 @@ const games = [
   },
   {
     id: '4',
-    name: 'borderLands',
+    name: 'BorderLands',
     type: 'Action',
     year: 2015,
   },
   {
     id: '5',
-    name: 'borderLands 2',
+    name: 'BorderLands 2',
     type: 'Action',
     year: 2018,
   },
